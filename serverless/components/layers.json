@@ -7,8 +7,10 @@
   "LayerAwsCompatibleRuntime": {
     "type": "string",
     "enum": [
+      "nodejs26.x",
       "nodejs24.x",
       "nodejs22.x",
+      "python3.15",
       "python3.14",
       "python3.13",
       "python3.12",
@@ -19,6 +21,9 @@
       "ruby3.3",
       "java25",
       "java21",
+      "java17.al2023",
+      "java11.al2023",
+      "java8.al2023",
       "java17",
       "java11",
       "java8.al2",
